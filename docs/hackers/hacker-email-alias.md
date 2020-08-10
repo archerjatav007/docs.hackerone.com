@@ -8,7 +8,7 @@ All hackers have an email alias on HackerOne that forwards any emails to the ema
 
 ### How It Works
 1. Upon creation of an account on HackerOne, the email alias will automatically generate based on the username you choose.
-     * Email aliases will be in the form of: <b>`[username]@wearehackerone.com`</b>
+     * Email aliases will be in the form of: <b>`[archer]@wearehackerone.com`</b>
 2. Programs will email you using your email alias in order to share special credentials or to communicate with you.
 3. The email will automatically be forwarded to your actual email address.
 
@@ -28,4 +28,4 @@ What happens if I change my username? | The email alias will automatically updat
 What happens if I change my email address on HackerOne? | The emails will be forwarded to your new, correct email.
 How do I disable my alias? | To disable your alias, you must disable your account.
 
-<sub>`flag{0ne_0f_1337_us}`</sub>
+<sub>`flag{0ne_0f_1337_us_archer}`</sub>
